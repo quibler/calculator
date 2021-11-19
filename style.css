@@ -1,0 +1,31 @@
+.container {
+    text-align: center;
+    color: #455A64;
+}
+.calculator {
+    padding: 10px;
+    display: inline-block;
+    margin: 50px auto;
+    background-color: #CFD8DC;
+    border-radius: 9px;
+}
+.keypad {
+    margin-top: 20px;
+}
+table {
+    table-layout: fixed;
+    margin: auto;
+}
+
+input {
+    font-size: 28px;
+    border-radius: 5px;
+}
+button {
+    font-size: 32px;
+    width: 85px;
+    height: 60px;
+    border-radius: 5px;
+    background-color: #607D8B;
+    color: #FFFFFF;
+}
